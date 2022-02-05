@@ -1,2 +1,2 @@
-# ProjectManagement
-Project Management Non-reproducible Example
+# Cooporative Living Chore Generator
+Project Management Non-reproducible Activity
